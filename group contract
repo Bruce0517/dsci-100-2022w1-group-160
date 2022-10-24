@@ -1,0 +1,3 @@
+#group contract
+library(revest) 
+page <- read.html("http://
