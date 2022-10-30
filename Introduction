@@ -1,0 +1,19 @@
+#The Meaningful HTRU2
+**Introduction**:Pulsars are extremely rare neutron stars that can generate radio waves by themselves and serve as detectors of space-time, 
+the interstellar medium, and the state of matter. These radiation data were observed by scientists on Earth. 
+As they have considerable scientific significance.The predictors that we are interested are listed below:
+p.mean: The mean value of pulsar
+p.sd: The stardard division of pulsar 
+p.kurt:The kurtosis value of pulsar
+p.skew:The skewness value of pulsar
+c.mean
+c.sd
+c.kurt
+c.skew
+class
+**Method**:In order to make the data more convincing, we first make our selection random and fixed by setting a sample, 
+considering that the samples that mark pulsar candidates have a binary relationship. 
+We will distinguish the data of class = 0 and class = 1, the difference in mean, sd, skew, etc., 
+and visualize the data more intuitively and readable by means of histogram.The histogram graphs can significantly help us to obeserve the different
+values tendency and the difference between pulsar and non-pulsar.
+**Expected outcomes**
